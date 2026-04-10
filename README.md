@@ -1,31 +1,42 @@
 # brics_astro
-A repo for the BRICS Data Science Program
 
-## Installation
+**English:** A repo for the BRICS Data Science Program  
+**中文：** BRICS 数据科学课程仓库
 
-**Clone the Repository**
+---
+
+## Installation / 安装
+
+**English:** **Clone the Repository**  
+**中文：** **克隆仓库**
+
 ```bash
 git clone https://github.com/Danselem/brics_astro
 ```
 
-**Change to the Directory**
+**English:** **Change to the Directory**  
+**中文：** **进入目录**
 
 ```bash
 cd brics_astro
 ```
 
-**Create Virtual Environment**
+**English:** **Create Virtual Environment**  
+**中文：** **创建虚拟环境**
 
 ```bash
 python3.10 -m venv .venv
 ```
 
-**Activate the environment**
+**English:** **Activate the environment**  
+**中文：** **激活环境**
+
 ```bash
 source .venv/bin/activate
 ```
 
-**Install Dependencies**
+**English:** **Install Dependencies**  
+**中文：** **安装依赖**
 
 ```bash
 pip install -r requirements.txt
